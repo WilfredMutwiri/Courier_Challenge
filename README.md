@@ -17,7 +17,7 @@ This project is a mock courier service platform designed to:
 ## 🚀 Getting Started
 
 Follow the steps below to set up and run the project locally.
-You can find the live site here https://courier-challenge.vercel.app/login
+You can find the live site here https://courier-challenge.vercel.app/
 
 ### 1. Clone the Repository
 
